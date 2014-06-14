@@ -1,0 +1,12 @@
+ .productos {
+  background-color: lightsteelblue;
+  float: left;
+  width: 75%;
+  }
+
+  .panelLateral{
+  background-color: lightblue;
+  float: right;
+  width: 20%;
+      
+  }

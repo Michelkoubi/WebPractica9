@@ -1,0 +1,11 @@
+ .panelLateral{
+  background-color: darksalmon;
+  float: right;
+  width: 20%;
+ }
+ 
+ .productos {
+  background-color: chocolate;
+  float: left;
+  width: 75%;
+  }
